@@ -1,0 +1,15 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+img{
+height: 200px;
+object-fit: contain;
+}
